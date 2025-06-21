@@ -12,6 +12,8 @@ title: Working in R & RStudio
 -   Use the Help pages to look up function documentation
 :::
 
+<!-- THESE SLIDES ARE NOT COMPLETE...  Recommend putting a ton of the words-words-words elements of this lesson into slide format - more compact, easy to page back and forth --> 
+
 [Full Screen](slides/r_programming_introduction/example_slides.html)
 
 ```{=html}

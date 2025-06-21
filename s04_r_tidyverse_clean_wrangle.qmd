@@ -696,6 +696,7 @@ We just ran through the various things we can do with `dplyr` and `tidyr` but if
 ```{r}
 #| catch: true
 #| message: false
+
 catch_original <- read_csv("https://knb.ecoinformatics.org/knb/d1/mn/v2/object/df35b.302.1")
 
 mean_region <- catch_original %>%
