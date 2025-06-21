@@ -321,7 +321,9 @@ So far we've learned some of the basic syntax and concepts of R programming, and
 ::: {.callout-caution icon=false}
 ### Syntax of a function will look something like:
 
-```result_value <- function_name(argument1 = value1, argument2 = value2, ...)```
+```
+result_value <- function_name(argument1 = value1, argument2 = value2, ...)
+```
 :::
 
 Before we use a function, let's talk about Help pages.

@@ -57,13 +57,16 @@ library(viridis) # colorblind friendly color palette
 
 
 
-2. Load the data directly from the [EDI Data Repository: Sacramento-San Joaquin Delta Socioecological Monitoring ](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.587.1). Navigate to the link above, scroll down and under *Resources*, hover over the "Download" button for the "Socioecological monitoring data", right click, and select "Copy Link Address".
+2. Load the data directly from the [EDI Data Repository: Sacramento-San Joaquin Delta Socioecological Monitoring ](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.587.1). Navigate to the link above, scroll down and under *Resources*, click the "Download" button for the "Socioecological monitoring data", and save or move it into a folder called `data` in your repository (you might need to create the folder first).  It saves as a file called `Socioecological_monitoring_data.csv`
+
+```r
+delta_visits_raw <- read_csv("data/Socioecological_monitoring_data.csv")
+```
 
 ```{r}
-#| message: false
-#| warning: false
+#| echo: false
 
-delta_visits_raw <- read_csv("https://portal.edirepository.org/nis/dataviewer?packageid=edi.587.1&entityid=cda8c1384af0089b506d51ad8507641f")
+delta_visits_raw <- read_csv("data/r_data_visualization/Socioecological_monitoring_data.csv", show_col_types = FALSE)
 
 ```
 
@@ -97,7 +100,7 @@ It is more frequent than not, that we need to do some wrangling before we can pl
 
 ::: callout-important
 ## Side note on clean column names
-`janitor::clean_names()` is an awesome function to transform all column names into the same format. The default format for this function is snake_case_format. We highly recommend having clear well formatted column names. It makes your life easier down the line.
+`janitor::clean_names()` is an awesome function to transform all column names into the same format. The default format for this function is `snake_case_format`. We highly recommend having clear well formatted column names. It makes your life easier down the line.
 
 How it works?
 
