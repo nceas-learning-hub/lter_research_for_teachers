@@ -45,9 +45,9 @@ website:
     contents:
       - index.qmd # preface
       # START SESSIONS
-      - s01_git_setup.qmd
+      - s01_r_programming_introduction.qmd
       - s02_github_introduction.qmd
-      - s03_r_programming_introduction.qmd
+      - s03_git_setup.qmd
       - s04_r_tidyverse_clean_wrangle.qmd
       - s05_r_data_visualization.qmd
       # END SESSIONS

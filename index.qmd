@@ -25,7 +25,7 @@ NCEAS has 30 years of success with this model among working groups and environme
 
 ## Setup for course: get the software!
 
-[Follow the instructions here](https://docs.google.com/document/d/17zfnxxpscKeH4WATWhYP4v--aFZwk-xJvZV7vQmrg2Y/edit?tab=t.0#heading=h.611fw7rg8qj9) to install the needed software and get an account on GitHub.
+[Follow the instructions here](https://docs.google.com/document/d/17zfnxxpscKeH4WATWhYP4v--aFZwk-xJvZV7vQmrg2Y/edit?tab=t.0#heading=h.611fw7rg8qj9) to install the needed software and get an account on GitHub.  We'll set these up later, but the basic installation is pretty straightforward.
 
 * **Git** version control software
 * **GitHub** web-based version control system
