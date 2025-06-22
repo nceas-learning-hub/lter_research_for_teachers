@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s03_r_programming_introduction.html</loc>
-    <lastmod>2025-06-21T20:02:02.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s04_r_tidyverse_clean_wrangle.html</loc>
-    <lastmod>2025-06-21T20:02:02.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/slides/r_programming_introduction/slides.html</loc>
-    <lastmod>2025-06-21T20:02:02.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s01_git_setup.html</loc>
-    <lastmod>2025-06-21T20:02:02.794Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s05_r_data_visualization.html</loc>
-    <lastmod>2025-06-21T20:02:02.795Z</lastmod>
+    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s02_github_introduction.html</loc>
+    <lastmod>2025-06-22T18:12:04.751Z</lastmod>
   </url>
   <url>
     <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/index.html</loc>
-    <lastmod>2025-06-21T20:02:02.794Z</lastmod>
+    <lastmod>2025-06-22T18:12:04.750Z</lastmod>
   </url>
   <url>
-    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s02_github_introduction.html</loc>
-    <lastmod>2025-06-21T20:02:02.795Z</lastmod>
+    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s03_git_setup.html</loc>
+    <lastmod>2025-06-22T18:12:04.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s01_r_programming_introduction.html</loc>
+    <lastmod>2025-06-22T18:12:04.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s05_r_data_visualization.html</loc>
+    <lastmod>2025-06-22T18:12:04.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/slides/r_programming_introduction/slides.html</loc>
+    <lastmod>2025-06-22T18:12:04.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nceas-learning-hub.github.io/lter_research_for_teachers/s04_r_tidyverse_clean_wrangle.html</loc>
+    <lastmod>2025-06-22T18:12:04.751Z</lastmod>
   </url>
 </urlset>
